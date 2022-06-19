@@ -1,0 +1,9 @@
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\bin\Debug\Text To Speech1.exe.config
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\bin\Debug\Text To Speech1.exe
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\bin\Debug\Text To Speech1.pdb
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\obj\Debug\Text To Speech1.csprojResolveAssemblyReference.cache
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\obj\Debug\Text_To_Speech1.Form1.resources
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\obj\Debug\Text_To_Speech1.Properties.Resources.resources
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\obj\Debug\Text To Speech1.csproj.GenerateResource.Cache
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\obj\Debug\Text To Speech1.exe
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Text To Speech1\Text To Speech1\obj\Debug\Text To Speech1.pdb
